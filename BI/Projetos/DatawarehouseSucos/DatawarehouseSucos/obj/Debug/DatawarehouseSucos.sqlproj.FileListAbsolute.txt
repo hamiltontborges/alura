@@ -1,0 +1,5 @@
+D:\GoogleDrive\Cursos\Alura\BI\Projetos\DatawarehouseSucos\DatawarehouseSucos\bin\Debug\DatawarehouseSucos.dacpac
+D:\GoogleDrive\Cursos\Alura\BI\Projetos\DatawarehouseSucos\DatawarehouseSucos\bin\Debug\DatawarehouseSucos.dll
+D:\GoogleDrive\Cursos\Alura\BI\Projetos\DatawarehouseSucos\DatawarehouseSucos\bin\Debug\DatawarehouseSucos.pdb
+D:\GoogleDrive\Cursos\Alura\BI\Projetos\DatawarehouseSucos\DatawarehouseSucos\obj\Debug\DatawarehouseSucos.dll
+D:\GoogleDrive\Cursos\Alura\BI\Projetos\DatawarehouseSucos\DatawarehouseSucos\obj\Debug\DatawarehouseSucos.pdb

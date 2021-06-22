@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "DatawarehouseSucos", "DatawarehouseSucos\DatawarehouseSucos.sqlproj", "{E91418A6-7D55-4A42-8FA5-529DB47B0ADE}"
+EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "CargaDataWarehouse", "CargaDataWarehouse\CargaDataWarehouse.dtproj", "{D9020751-C4E7-4A48-9AC2-40E2688A79EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Development|Any CPU = Development|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E91418A6-7D55-4A42-8FA5-529DB47B0ADE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E91418A6-7D55-4A42-8FA5-529DB47B0ADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E91418A6-7D55-4A42-8FA5-529DB47B0ADE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E91418A6-7D55-4A42-8FA5-529DB47B0ADE}.Development|Any CPU.ActiveCfg = Debug|Any CPU
+		{E91418A6-7D55-4A42-8FA5-529DB47B0ADE}.Development|Any CPU.Build.0 = Debug|Any CPU
+		{E91418A6-7D55-4A42-8FA5-529DB47B0ADE}.Development|Any CPU.Deploy.0 = Debug|Any CPU
+		{E91418A6-7D55-4A42-8FA5-529DB47B0ADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E91418A6-7D55-4A42-8FA5-529DB47B0ADE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E91418A6-7D55-4A42-8FA5-529DB47B0ADE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{D9020751-C4E7-4A48-9AC2-40E2688A79EC}.Debug|Any CPU.ActiveCfg = Development
+		{D9020751-C4E7-4A48-9AC2-40E2688A79EC}.Debug|Any CPU.Build.0 = Development
+		{D9020751-C4E7-4A48-9AC2-40E2688A79EC}.Development|Any CPU.ActiveCfg = Development
+		{D9020751-C4E7-4A48-9AC2-40E2688A79EC}.Development|Any CPU.Build.0 = Development
+		{D9020751-C4E7-4A48-9AC2-40E2688A79EC}.Release|Any CPU.ActiveCfg = Development
+		{D9020751-C4E7-4A48-9AC2-40E2688A79EC}.Release|Any CPU.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51C4B803-F274-4920-AF53-4E590FD315E4}
+	EndGlobalSection
+EndGlobal

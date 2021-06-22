@@ -1,0 +1,14 @@
+// Variáveis usadas no meu Sass
+
+$cor-padrao: darken(#c24e4b, 0);
+$cor-auxiliar: lighten(#1e2c35, 0);
+$cor-branca: #fff;
+
+$ponto-de-quebra: 980px;
+
+$mq-mobile: "(max-width: 980px)";
+
+// Exemplos
+// $cor-padrao: adjust-hue(#c24e4b, 10);
+// $cor-padrao: saturate(#c24e4b, 20);
+// $cor-padrao: complement(#c24e4b, 90);
