@@ -1,2 +1,2 @@
-# alura
-projetos desenvolvidos nas aulas assistidas na Alura
+# Alura
+Projetos desenvolvidos nas aulas assistidas na Alura
