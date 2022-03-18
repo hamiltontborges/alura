@@ -1,0 +1,21 @@
+#!/bin/bash   primeira linha para indentificar o interpretador
+
+passando parâmetro:
+
+	Ex: $1.jpg -> primeiro parâmetro. Quando for executar o script, terá que passar o parâmetro
+
+laço de repetição
+
+
+for imagem in $@ (englobando os parâmetros passados no comando)
+do
+	convert $CAMINHO_IMAGENS/$imagem.jpg $CAMINHO_IMAGENS/$imagem.png
+done
+
+
+*.jpg -> referenciar todos os arquivos na extensão .jpg
+
+
+awk -F. '{ print $1 }' -> comando para "quebrar" a palavra após o "." e imprimir o primeiro parâmetro
+
+nome_variavel=$(comando) - envolver com o '$()' significa que a variável 'guardará' o resultado do comando
